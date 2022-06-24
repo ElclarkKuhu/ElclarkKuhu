@@ -1,10 +1,14 @@
-# Elclark
-Hello, Im Elclark. visit my [Website](https://elclark.my.id/ "Elclark Website"). i love figuring out how things work and how to make them work. 
+# Hi, I`m Elclark!
+I'm a software engineer and system administrator from Manado, Indonesia. I also a university student and UI/UX designer. I'm passionate about technology, science, music, and gaming. [learn more](//elclark.my.id).
 
-## I can write code in
-1. Java
-2. JavaScript
-3. LUA
-4. C++
+### Favorite Framework
+- :zap: [Svelte](//svelte.dev)
 
-and Other but **JavaScript** is my favorite
+### I code in
+- :fire: JavaScript
+- :tada: LUA
+- :bulb: Java
+- :sparkles: C++
+
+### Support
+- :coin: [Paypal](//paypal.me/elclarkkuhu)
