@@ -23,7 +23,7 @@ When I'm not working or learning new things, I enjoy pursuing a range of hobbies
 ## Accomplishments
 While I'm still early in my career, I'm proud of the progress I've made so far. Some of my accomplishments include:
 
-- Building this website using [SvelteKit](https://kit.svelte.dev/)
+- Building [elclark.my.id](https://elclark.my.id/) using [SvelteKit](https://kit.svelte.dev/)
 - Developing a game inventory system for [FiveM](https://fivem.net) using JavaScript and Lua
 
 ## Goals
