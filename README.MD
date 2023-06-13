@@ -8,7 +8,7 @@ I have experience working with a variety of programming languages, frameworks, a
 - **Web Development**: JavaScript, TypeScript, React.js, Svelte
 - **Mobile Development**: Java, Android
 - **Game Development**: Lua
-- **System Administration**: Linux, Windows, OpenWRT, MikroTik
+- **System Administration**: Unix Based System, Windows
 - **Other Languages**: C++, Python
 
 In addition to my programming skills, I'm also skilled in UI and UX design, and have experience creating beautiful and functional interfaces for web and mobile applications.
