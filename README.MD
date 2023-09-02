@@ -27,7 +27,7 @@ While I'm still early in my career, I'm proud of the progress I've made so far. 
 - Developing a game inventory system for [FiveM](https://fivem.net) using JavaScript and Lua
 
 ## Goals
-My main goal for the future is to continue learning and growing as a developer and designer, and to build even cooler things that make a difference in people's lives. I'm also interested in exploring the intersection of technology and social justice, and using my skills to help create positive change in the world.
+My main goal for the future is to continue learning and growing as a developer and designer, and to build even cooler things that make a difference in people's lives. I'm also interested in exploring the intersection of technology and using my skills to help create positive change in the world.
 
 ## Let's connect!
 If you're interested in working together, collaborating on a project, or just want to say hello, feel free to reach out. You can find me on [LinkedIn](https://id.linkedin.com/in/elclark-kuhu-38615a193) and [Twitter](https://twitter.com/elclark_kuhu), or check out my [website](https://elclark.my.id/) for more information.
