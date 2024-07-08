@@ -6,7 +6,7 @@ I'm a Software Engineer, Web Developer, UI/UX designer, and system administrator
 I have experience working with a variety of programming languages, frameworks, and technologies, including:
 
 - **Web Development**: JavaScript, TypeScript, React.js, Svelte
-- **Mobile Development**: Java, Android
+- **Mobile Development**: Java, Kotlin, Android
 - **Game Development**: Lua
 - **System Administration**: Unix Based System, Windows
 - **Other Languages**: C++, Python
